@@ -2,26 +2,26 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(175, 32, 32);
+    background-color: rgb(219, 207, 207);
 }    
 
 /* Header */
 header {
-    background-color: rgb(23, 36, 212);
-    color: rgb(94, 135, 170)
+    background-color: rgb(233, 234, 243);
+    color: rgb(17, 18, 19)
     padding: 20px
     text-align: center;
 }
 
 /* Navigation */
 nav {
-    background-color: rgb(194, 16, 16);
+    background-color: rgb(233, 229, 229);
     padding: 10px;
     text-align: center;
 }
 
 nav a {
-    color: rgb(204, 149, 67)
+    color: rgb(235, 232, 229)
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
@@ -38,7 +38,7 @@ main {
 
 /* Sections */
 section  {
-    background-color: rgb(133, 73, 73);
+    background-color: rgb(241, 233, 233);
     padding: 10px
     margin-bottom: 10px
     border-radius: 5px
@@ -46,7 +46,7 @@ section  {
 
 /* Products */
 .product  {
-    border: 1px solid #924848;
+    border: 1px solid #141313;
     padding: 10px;
     margin: 10px;
     border-radius: 5px;
@@ -54,7 +54,7 @@ section  {
 
 /* Footer */
 footer  {
-    background-color: #376694;
+    background-color: #e5e9ec;
     color: rgb(141, 66, 66);
     text-align: center;
     padding: 10px;
